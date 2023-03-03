@@ -1,0 +1,270 @@
+X: 3
+T:The First of October
+M:6/8
+L:1/8
+Q:122
+C:Chip Thompson
+R:Jig
+K:D
+A,B,D EDD|EFA BAA|Bdd edd|d/2G/2G d F2 D|FD{E}D ED{F}D|B,A,G, {B,}A,A,A,
+|A,B,D EDB
+,|{E}DDD D3:||
+abb {b}afe|e/2f/2af edB|Bdd BAA|1^GAB {B}A2 a|b{d'}b{a}b {b}afe|e/2f/2af
+ {f}edB|Bdd {c}BAF|EF
+E {E}DDD :|
+2^GAB {B}A2 A|A,B,D EDD|EFA BAA|Bdd BAF|EFE D2||
+
+X: 4
+T:Johnny the Jumper
+M:6/8
+L:1/8
+C:Traditional, deranged by Roger Landes
+R:Jig
+K:ADor
+eAA cBA|eAA f^ga|eAA c/2c/2ce|dBG Bcd|eAA cBA|edc B/2c/2BA|G/2G/2GG g/2g
+/2gg|dBG Bcd:||
+cBA a/2a/2aa|cBA Bcd|cBA g/2g/2gg|dBG Bcd|cBA a/2a/2aa|edc B/2c/2BA|G/2G
+/2GG g/2g/2gg|dBG Bcd:||
+
+
+X: 21
+T:Sarsfield's March
+M:2/4
+L:1/16
+Q:110
+C:Traditional, arr. Roger Landes
+R:March
+K:C
+A,G,||C2 CC C2 CC|DDDE FEDE|C2 CC CEGc|BGFD EEED|C2 A,G, C2 A,G,|DDDE FE
+DE|FGAB c2 GF|1E2 C2 C2 A,G,:|2E2 C2 C3 G||GABc BAGE|GABc A2 GE|GAcA A/2
+G/2E E/2D/2C|E2 D2 D2 DE|F2 FG ABc2|E2 DC C3 C|FAcA GEDC |1D2 C2 C3 G:|2
+D2 C2 C2 A,G,||
+
+
+X: 5
+T:Barrel of Knives
+M:6/8
+L:1/8
+C:Roger Landes
+R:Jig
+K:DMix
+A|ced cAG|ABA g/2g/2gg|ced cAG|ABA FDD|ced cAG|ABA g/2g/2gg|bag fdc|dAG
+FDD:||
+g/2g/2gg edc|ded cAF|G2 B dBG|ABA FDD|g/2g/2gg edc|ded ceg|bag fdc|dAG F
+DD:||
+
+X: 13
+T:Tone Rowe's
+M:6/8
+L:1/8
+C:Traditional, arr. Roger Landes
+R:Jig
+K:D
+FFF AFE|EDB ABD|FFF GGG|ABF A/2B/2AG|FFF AFE|EDB ABD|FFF GGG|1BAF D2 E:|
+2BAF D2 g||f/2g/2f d dcd|edc Bcd|f/2g/2f d dcd|ABF A2 g|f/2g/2f d dcd|ed
+c Bcd|faf g/2f/2e c|1dAF D2 g:|2dAF D2 E||
+
+X: 9
+T:Leg of the Duck
+M:6/8
+L:1/8
+C:Traditional, arr. Roger Landes
+R:Jig
+K:G
+BGG AGG|BGG AGE|DGF G/2G/2GG|DGF G/2G/2GA|BGG AGG|BGG AGF|D{E}D/2D/2D F2
+ G|ADE FGA:|
+{e}ddB cAA|dcB cAG|DGF G/2G/2GG|DGF G/2G/2GA|{e}ddB cAA|dcB cAF|D{E}D/2D
+/2D F2G|ADE FGA:|BBB cBc|ded dBd|g/2g/2gg gfd|gba gfd|BBB cBc|ded d/2d/2
+de|=f/2f/2ff fed|=fdg =fdc:|
+
+
+X: 19
+T:Master Crowley's
+M:C|
+L:1/8
+C:Traditional, arr. Roger Landes
+R:Reel
+K:DDor
+A,D {F}DD A,DFD|CCB,C G,CEC|A,D D/2D/2D CFAF|EGcG ED D/2D/2D|A,D {F}DD A
+,DFD|CCB,C G,CEC|A,D D/2D/2D CFAF|EGcG ED D/2D/2D:|{b}aa^ga efdf|ec c/2c
+/2c Gcec|{b}aa^ga efdc|dAAG AD D/2D/2D|{b}aa^ga efdf|ec c/2c/2c Gcec|DEF
+G AGAc|EGcG ED D/2D/2D:||
+
+X: 18
+T:Martin Wynne's #2
+M:C|
+L:1/8
+C:Martin Wynne
+R:Reel
+K:Bm
+FB{B}AF {F}EEFE|{E}DB, B,/2B,/2B, DB,A,D|B,E {F}E/2E/2E FEDE|FABc dcBA|F
+B{B}AF {F}EEFE|{E}DB, B,/2B,/2B, DB,A,D| B,E {F}E/2E/2E FEDE|FBBA B3 A:|
+FBAF {B}AAFA|B/2c/2d eg fdde|fa{b}af egfe|{e}dfed BAFE|FBAF {B}AAFA|B/2c
+/2d eg fd d/2d/2d|bf{b}af egfe|1dBAd B2 BA:|2dBAd B3 A||
+
+X: 20
+T:Tom Billy's Reel
+M:C|
+L:1/8
+C:Traditional, arr. Roger Landes
+R:Reel
+K:D
+dcdA BAFB|AF F/2F/2F EFDE|F/2F/2F AF G/2G/2G BG|ABde fdec|d/2d/2d dA BAF
+B|AF F/2F/2F/2 EFDE|F/2F/2F AF G/2G/2G BG|1ABde fe e/2e/2e:|2ABde fdde||
+fa a/2a/2a afdf|g/2g/2g fg edBd|fa a/2a/2a bafd|ABde fe e/2e/2e|fa a/2a/
+2a afdf|g/2g/2g fg|{f}edBA|F/2F/2F AF G/2G/2G BG|1ABde fe e/2e/2e:|2ABde
+ fdec|
+
+
+X: 14
+T:Slopes of Sliabh Luachra
+M:6/8
+L:1/8
+C:Traditional, arr. Roger Landes
+R:Jig
+K:ADor
+{B,}A,A,A, {B,}A,G,E,|E,D,E, G,G,A,|{B,}A,A,A, {B,}A,G,E,|A,B,D EFG|{B,}
+A,A,A, {B,}A,G,E,|E,D,E, G,A,B,|CB,A, B,A,G,|1{B,}A,A,A, A,2 G,:|2{B,}A,
+A,A, A,2 D||E2 A AGA|ABA {B}AGA|E2 G GFG|GAG GED|E2 A AGA|ABA {B}AGA|EFG
+ EDB,|1{C}B,A,G, A,2 D:|2{C}B,A,G, A,2 G,||
+
+X: 11
+T:Price of the Pig
+M:6/8
+L:1/8
+C:Traditional, arr. Roger Landes
+R:Jig
+K:AMix
+{a}eee {c}AAA|{d}BBB GGG|{a}eee {f}edB|def g{a}g{f}g|{a}eee {c}AAA|{
+d}BBB GGG|{a}eee {f}ede|BAA A2 d:|efg aAA|efg aAA|age {f}edB|def g{a}g{f
+}g
+|{a}eee {c}AAA|{d}BBB GGG|{a}eee {f}ede BAA A2 d:|
+
+X: 12
+T:Kitty's Wedding
+M:6/8
+L:1/8
+C:Traditional, arr. Roger Landes
+R:Jig
+K:A
+EAA cAA|eAA cAA|fga ecA|B{d}/2B{A}B cAF|EAA cAA|eAA cAA|fga ecA|1{d}BB
+B A2 F:|2{d}BBB A2 c||eab c'af|ece aec|eab c'ae|d'c'b c'af|eab c'af|ece 
+aec|fga ecA|1{d}BBB A2 c:|2{d}BBB Acd||{f}eee {f}ecA|dff fga|ecA ecA|B{d
+}
+B{A}B Bcd|{f}eee {f}ecA|dff fga|ecA {d}BBB|cAG Acd|{f}eee {f}ecA|df
+f fga|eca edc|{d}BBB Bcd|{f}eee {f}ecA|dff fga|ecA {d}BBB|cAG A2 F||
+
+
+X: 10
+T:Storm-Stayed at Grady's
+M:C|
+L:1/8
+C:Paul G. MacDonald
+R:Reel
+K:EDor
+EEEG FDB,D|DFAF G2 EF|GBB/2B/2B dBGB|Aegf eEED|EEEG FDB,D|DFAF G2 EF|GBB
+/2B/2B dBGB|1Aegf eEED:|2Aegf eEEA||Bee/2e/2e fedf|d/2d/2dfd gdfd|Bee/2e
+/2e fedf|gfed eEEA|Bee/2e/2e fedf|d/2d/2dfd gdfd|gbag fagd|ddBA BEEA|Bee
+/2e/2e fedf|d/2d/2dfd gdfd|gefd edBA|B/2c/2dAF GEFD|EEEG FDB,D|DFAF G2 E
+F
+|GBB/2B/2B dBGB|Aegf eEE2||
+
+X: 24
+T:The Enchanted Lady
+M:C|
+L:1/8
+C:Traditional, arr. Roger Landes
+S:Bothy Band
+R:Reel
+K:D
+{B}AAAG FAdB|AGFD EAA/2A/2A|{B}AAAG FAdB|1ABde fedB:|2ABde fdde||f/2f/2f
+df efde|f/2f/2fdf edBd|1f/2f/2fdf efdB|ABAG FDD/2D/2D:|2A/2A/2AAB dfbf|a
+feg fdd/2d/2d||
+
+T:Francis John McGovern's
+M:C|
+L:1/8
+S:Charlie Lennon/Stockton's Wing
+R:Reel
+K:G
+BBBA GEDE|GGBG cGBG|BBBA GEDE|EAAG A2 GA:||
+B/2c/2d ef ggef|gedc BGGG|B/2c/2d ef ggfg|eaaa aged|B/2c/2d ef ggef|gedc
+ BGGA|BBBA GEDE|EAAG A2 GA||
+
+X: 8
+T:Tam Lin
+M:C|
+L:1/8
+Q:140
+R:Reel
+K:Bm
+FB{d}B{A}B ABcA|{A}G/2G/2G BG dGBG|{c}A/2A/2A cA eAcA|FABd cBAG|FB{d}B{A
+}B
+ ABcA|{A}G/2G/2G BG dGBG|{c}A/2A/2A cA eAcA||1dBAG FB{d}B{A}B:|2dBAG FAd
+f|
+|
+bafe dB{d}B{A}B|bafe def^g|aAA/2A/2A ceAc|eAce acea|bafe dB{d}B{A}B|bafe
+ dBEF|GFGA BABc|dBAG FB{d}B{A}B:|
+
+
+X: 2
+T:Uncle Dick's Slow Reel
+M:C|
+L:1/8
+Q:160
+C:Roger Landes
+R:Reel
+K:DDor
+Adde f/2f/2f ed|cgg^f g/2g/2g ^fg|abag ^fdcd|fcec fcec|Adde f/2f/2f ed|c
+gg^f g/2g/2g ^fg|abag ^fdcd|1fcec d4:||2fcec dA e/2^f/2g||ad'd'^c' d'ag^
+f|ec'c'b c
+'age|ad'd'^c' d'/2d'/2d' ag|^fdag ^fd d/2d/2d|ad'd'^c' d'ag^f|ec'c'b c'/
+2c'/2c
+' bc'|d'b c'/2b/2a bga^f|gbag ^fa d/2d/2d:||
+
+X: 6
+T:John McClure's
+M:C|
+L:1/8
+Q:140
+C:Chris Grotewohl
+R:Reel
+K:DMix
+cAGc AD D/2D/2D|BAGB A/2c/2A FA|cAGc AD D/2D/2D|{A}GFGA G/2G/2G FG:|
+Ad c/2d/2e dcAG|cAGc AD D/2D/2D|Ad c/2d/2e dcAF|{A}GFGA G/2G/2G FG:|
+
+X: 7
+T:The Flax in Bloom
+M:C|
+L:1/8
+Q:200
+C:Traditional
+S:Kevin Burke, ed. by Roger Landes
+R:Reel
+K:D
+DD F/2E/2D FAAf|gefd edBG|{B}A/2A/2A FA ABdf|g/2g/2g fg edBA|DD F/2E/2D 
+FAAf|gefd edBG|AF F/2F/2F ABdf|{b}afeg fd d/2d/2d:|ffdf eAce|dcdA BAFA|D
+FAd
+ FAdf|g/2f/2e fd edBd|ffdf eAce|dcdA BAFA|DFAd FAdf|{b}afeg fd d/2d/2d:|
+ffa
+f dfaf|ggfg eB B/2B/2B|fd d/2d/2d Adfd|ceae ceae|ffaf dfaf|ggfg eB B/2B/
+2B|AF F/2F/2F ABdf|{b}afeg fd d/2d/2d:||
+
+
+X: 25
+T:Murphy's Nails
+M:2/2
+L:1/16
+Q:240
+C:Michael P. Dugger
+R:Polka
+K:D
+d2ed c2d2|A2F2 D4|e2c2 A2Bc|d2e2 f2e2|d2ed c2d2|A2F2 D4|e2c2 A2Bc|d4 d4:
+|
+f2d2 fga2|b2g2 e2d2|cBA2 B2c2|d2e2 f2e2|f2d2 fga2|b2g2 e2d2|cBA2 B2c2|d4
+ d4:|
+ 
+
+% Output from ABC2Win  Version 2.0  on 3/19/97
+
+
